@@ -1,1 +1,1 @@
-# Cost_of_living-index-by-country-mid-2024 Dashboard
+# Cost_of_living-index-by-country-mid-2024 Dashboard-This project aims to develop interactive and insightful dashboards using Power BI to Analyze specific factors contributing to high living costs in top-ranked countries, compare Cost of Living Index with economic indicators like GDP or average wages, explore strategies for addressing affordability issues in high-cost countries
